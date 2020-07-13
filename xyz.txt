@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello worlddddd yamini
+=======
+Hello worlddddd
+added second line
+>>>>>>> 148fdce1de35a6d81489cd3e4974550a55ccaa37
